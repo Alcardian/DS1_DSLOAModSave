@@ -1,5 +1,5 @@
 # DSLOAModSave
-A mod for Dungeon Siege 1.
+A mod for Dungeon Siege 1. Find the mod on Nexusmods at https://www.nexusmods.com/dungeonsiege1/mods/156
 ## Short Description
 Enable importing characters to your singleplayer save.
 
